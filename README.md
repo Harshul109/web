@@ -11,9 +11,7 @@
 
 ## Features
 
-* ⚡️ **Cool Feature**: Description of this awesome and elegant feature that makes perfectnote perfect.
-* ⚡️ **Cool Feature**: Description of this awesome and elegant feature that makes perfectnote perfect.
-* ⚡️ **Cool Feature**: Description of this awesome and elegant feature that makes perfectnote perfect.
+* ⚡️ **Cool Feature**: Description of this awesome and elegant feature that makes a perfect note.
 
 ## Links
 
